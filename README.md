@@ -2,9 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/FellipeFaria">
-    <img src="https://github-readme-stats.vercel.app/api?username=FellipeFaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/FellipeFaria">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeFaria&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
