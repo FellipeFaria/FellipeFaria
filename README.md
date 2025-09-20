@@ -1,11 +1,5 @@
 # Olá, eu sou Fellipe Faria! 👋
 
-<p align="center">
-  <a href="https://github.com/FellipeFaria">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeFaria&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
-
 ## 🚀 Sobre Mim
 
 Sou um entusiasta da tecnologia e um desenvolvedor apaixonado pelo que faço. A programação para mim é mais do que uma profissão, é quase um hobby! Estou sempre em busca de novos desafios e disposto a mergulhar em novas tecnologias de desenvolvimento para aprimorar minhas habilidades.
@@ -19,7 +13,7 @@ Tenho experiência com uma variedade de linguagens e tecnologias. Gosto de explo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,php,html,css,c" />
   </a>
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
 </p>
