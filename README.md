@@ -1,26 +1,31 @@
-# Olá, eu sou Fellipe Faria! 👋
+# Olá, eu sou o Fellipe Faria! 👋
 
 ## 🚀 Sobre Mim
 
-Sou um entusiasta da tecnologia e um desenvolvedor apaixonado pelo que faço. A programação para mim é mais do que uma profissão, é quase um hobby! Estou sempre em busca de novos desafios e disposto a mergulhar em novas tecnologias de desenvolvimento para aprimorar minhas habilidades.
+Sou um Desenvolvedor Backend em formação, focado na construção de sistemas escaláveis e na qualidade de código. Para mim, um bom software vai além de funcionar: ele precisa ser estruturado com princípios de **Clean Code**, **Clean Architecture** e **Programação Orientada a Objetos (POO)**.
 
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na [Fatec Ribeirão Preto - Faculdade de Tecnologia de Ribeirão Preto](http://www.fatecrp.edu.br/).
-- 👨‍💻 Formado como Técnico em **Desenvolvimento de Sistemas** pela Etec (Escola Técnica Estadual).
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na Fatec Ribeirão Preto (Previsão: Dez/2027).
+- 👨‍💻 Técnico em Desenvolvimento de Sistemas pela Etec.
+- 🕒 **Disponibilidade:** Busco estágio no modelo 100% remoto (ou presencial em Cravinhos-SP), com disponibilidade para início do turno a partir das 15h30.
 
-## 💻 Minhas Ferramentas e Tecnologias
+## 💻 Tecnologias e Ferramentas
 
-Tenho experiência com uma variedade de linguagens e tecnologias. Gosto de explorar e aprender, mas tenho um carinho especial por **TypeScript** e **Python**!
+Trabalho na resolução de problemas desenvolvendo principalmente para o Back-end, integrando linguagens robustas e bancos de dados:
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,php,html,css,c" />
-  </a>
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA"/>
-</p>
+- **Back-end:** Node.js, TypeScript, Java (Spring Boot), Python (Integrações com IA) e PHP.
+- **Fundamentos & Estruturas:** C e C++.
+- **Bancos de Dados:** PostgreSQL, MySQL e SQLite.
+- **Boas Práticas:** Clean Architecture, Object Calisthenics, APIs RESTful.
+
+## 🛠️ Projetos em Destaque
+
+Aqui estão alguns dos projetos onde aplico meus conhecimentos na prática:
+
+- 🔗 **[LinkHub API](link_do_seu_repositorio):** API RESTful desenvolvida em Node.js e TypeScript para gerenciamento de links, utilizando Prisma ORM e autenticação JWT.
+- 🎙️ **[Assistente de Voz com IA](link_do_seu_repositorio):** Aplicação interativa em Python integrada com modelos de Inteligência Artificial generativa.
+- ⚙️ **[Sistema Backend Java](link_do_seu_repositorio):** Projeto aplicando Clean Architecture com Java e Spring Boot.
 
 ## 📫 Como me encontrar
 
 - **LinkedIn:** [FellipeFaria](https://www.linkedin.com/in/fellipe-faria)
 - **Email:** fellipefaria014@gmail.com
-
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
