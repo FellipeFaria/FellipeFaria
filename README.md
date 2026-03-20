@@ -21,9 +21,8 @@ Trabalho na resolução de problemas desenvolvendo principalmente para o Back-en
 
 Aqui estão alguns dos projetos onde aplico meus conhecimentos na prática:
 
-- 🔗 **[LinkHub API](link_do_seu_repositorio):** API RESTful desenvolvida em Node.js e TypeScript para gerenciamento de links, utilizando Prisma ORM e autenticação JWT.
-- 🎙️ **[Assistente de Voz com IA](link_do_seu_repositorio):** Aplicação interativa em Python integrada com modelos de Inteligência Artificial generativa.
-- ⚙️ **[Sistema Backend Java](link_do_seu_repositorio):** Projeto aplicando Clean Architecture com Java e Spring Boot.
+- 🔗 **[LinkHub API](https://github.com/FellipeFaria/LinkHub-API):** API RESTful desenvolvida em Node.js e TypeScript para gerenciamento de links, utilizando Prisma ORM e autenticação JWT.
+- 🎙️ **[Assistente de Voz com IA](https://github.com/FellipeFaria/ChatIA):** Aplicação interativa em Python integrada com modelos de Inteligência Artificial generativa.
 
 ## 📫 Como me encontrar
 
