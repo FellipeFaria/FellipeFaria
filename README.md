@@ -6,7 +6,6 @@ Sou um Desenvolvedor Backend em formação, focado na construção de sistemas e
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na Fatec Ribeirão Preto (Previsão: Dez/2027).
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas pela Etec.
-- 🕒 **Disponibilidade:** Busco estágio no modelo 100% remoto (ou presencial em Cravinhos-SP), com disponibilidade para início do turno a partir das 15h30.
 
 ## 💻 Tecnologias e Ferramentas
 
